@@ -2,11 +2,6 @@
 
     𝒜𝓃𝒹𝓇𝑜𝓂𝑒𝒹𝒶 @ 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘓 𝘜 𝘕 𝘈 𝘞 𝘈 𝘙 𝘌
 
-    -- >> DO NOT DISTRIBUTE << --
-
-
-    How many times am I gonna have to rewrite the entire script just because I don't like it.
-
 --]]
 
 local CustomIdentifier = "%s's Andromeda Replication" -- [%s] ~ PLAYER NAME
