@@ -1,2 +1,2 @@
 # Andromeda
- A simple cr basescript that's super user-friendly!
+ A simple client replicated base for people to look at and learn how to cr!
